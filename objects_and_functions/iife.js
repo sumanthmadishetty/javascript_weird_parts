@@ -1,4 +1,5 @@
 //Immediately invoked functions expressions
+//IIFE are the functions that are invoked on the fly
 
 var normal_func = function(name) {
     console.log("hello"+ name)
